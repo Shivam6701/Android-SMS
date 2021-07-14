@@ -1,2 +1,2 @@
-Sending SMS Android Studio
+Sending SMS Android Studio.
 Working with BroadcastReceiver
